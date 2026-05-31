@@ -1,0 +1,2 @@
+Git tracks file changes efficiently.
+Branches help parallel development. Commits store project history.
